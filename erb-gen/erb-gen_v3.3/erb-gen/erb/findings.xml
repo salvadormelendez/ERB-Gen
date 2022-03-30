@@ -1,0 +1,38 @@
+<data>
+    <finding uid="0">
+        <folder>/root/Desktop/erb-gen_v3.0/erb/0/</folder>
+        <active>1</active>
+        <rank>0</rank>
+        <title>Finding #0</title>
+        <hosts>system0 / 0.0.0.0</hosts>
+        <issues>This is finding #0 description!</issues>
+        <posture>NEARSIDER</posture>
+        <mitigation>NO MITIGATION FOUND FOR THIS FINDING...</mitigation>
+        <include_mitigation>no</include_mitigation>
+        <screenshots>['Finding0_Screenshot0.png', 'Finding0_Screenshot1.png', 'Finding0_Screenshot2.png']</screenshots>
+    </finding>
+    <finding uid="1">
+        <folder>/root/Desktop/erb-gen_v3.0/erb/1/</folder>
+        <active>1</active>
+        <rank>1</rank>
+        <title>Finding #1</title>
+        <hosts>system1 / 1.1.1.1</hosts>
+        <issues>This is finding #1 description!</issues>
+        <posture>NEARSIDER</posture>
+        <mitigation>NO MITIGATION FOUND FOR THIS FINDING...</mitigation>
+        <include_mitigation>no</include_mitigation>
+        <screenshots>['Finding1_Screenshot0.png', 'Finding1_Screenshot1.png']</screenshots>
+    </finding>
+    <finding uid="2">
+        <folder>/root/Desktop/erb-gen_v3.0/erb/2/</folder>
+        <active>1</active>
+        <rank>2</rank>
+        <title>Finding #2</title>
+        <hosts>system2 / 2.2.2.2</hosts>
+        <issues>This is finding #2 description!</issues>
+        <posture>NEARSIDER</posture>
+        <mitigation>NO MITIGATION FOUND FOR THIS FINDING...</mitigation>
+        <include_mitigation>no</include_mitigation>
+        <screenshots>['Finding2_Screenshot0.png']</screenshots>
+    </finding>
+</data>

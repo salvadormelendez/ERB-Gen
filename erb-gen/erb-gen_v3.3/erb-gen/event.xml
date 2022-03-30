@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+    <event uid="0">
+        <lead_name>Salvador Melendez, Ph.D.</lead_name>
+        <lead_title>Computer Engineer</lead_title>
+        <lead_org>DEVCOM DAC</lead_org>
+        <office_symbol>FCDD-DAC-E         (Jai)</office_symbol>
+        <event_name>SAMPLE EVENT</event_name>
+        <event_type>CVPA</event_type>
+        <start_date>10/11/2021</start_date>
+        <end_date>10/15/2021</end_date>
+        <classification>UNCLASSIFIED</classification>
+        <designation>CUI</designation>
+        <draft>YES</draft>
+        <mode>DARK</mode>
+    </event>
+</data>
